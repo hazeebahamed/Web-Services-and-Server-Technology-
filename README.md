@@ -1,2 +1,1 @@
-# Web-Services-and-Server-Technology-
-Daily class practical updates
+# 2025.03.10 Practicals
